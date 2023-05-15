@@ -24,8 +24,6 @@
 ### Backend as a Service (BaaS)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freitasbtw&show_icons=true&locale=en&layout=compact" alt="freitasbtw" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freitasbtw&show_icons=true&locale=en" alt="freitasbtw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freitasbtw&" alt="freitasbtw" /></p>
