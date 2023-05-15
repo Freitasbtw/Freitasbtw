@@ -2,7 +2,7 @@
 
 <a href="https://github.com/oleoz1n">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&layout=compact&langs_count=6&theme=tokyonight"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freitasbtw&label=Profile%20views&color=0e75b6&style=flat" alt="freitasbtw" /> </p>
 
