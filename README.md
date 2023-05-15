@@ -1,5 +1,6 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+
 <a href="https://github.com/oleoz1n">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&layout=compact&langs_count=6&theme=tokyonight"/>
