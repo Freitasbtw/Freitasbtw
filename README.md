@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Freitasbtw">
 <img height="180em" src="https://readmestats.999857.xyz/api?username=Freitasbtw&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&layout=compact&langs_count=6&theme=midnight-purple"/>
+<img height="140em" src="https://readmestats.999857.xyz/api/top-langs/?username=Freitasbtw&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freitasbtw&label=Profile%20views&color=0e75b6&style=flat" alt="freitasbtw" /> </p>
 
