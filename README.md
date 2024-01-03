@@ -1,5 +1,5 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=rachzy&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Freitasbtw&color=blueviolet" />
  </div>
 <h2 align="center">Breaking keyboards and fixing bugs: just another day in the life of a programmer.</h2>
 
@@ -7,9 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=radical&layout=compact&count_private=true" />
  </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freitasbtw&label=Profile%20views&color=0e75b6&style=flat" alt="freitasbtw" /> </p>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-freitas-07683a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-freitas-07683a225" height="30" width="40" /></a>
