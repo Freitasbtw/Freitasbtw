@@ -1,5 +1,5 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=Freitasbtw&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=Freitasbtw&color=white" />
  </div>
 <h2 align="center">A passionate programmer from Brazil.</h2>
 
