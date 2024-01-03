@@ -33,5 +33,3 @@
 
 ### Backend as a Service (BaaS)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freitasbtw&" alt="freitasbtw" /></p>
