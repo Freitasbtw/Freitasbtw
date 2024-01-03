@@ -1,5 +1,5 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
+<h3 align="center">Breaking keyboards and fixing bugs: just another day in the life of a programmer.</h3>
+<p align="center"></p>
 
 <a href="https://github.com/Freitasbtw">
 <img height="180em" src="https://readmestats.999857.xyz/api?username=Freitasbtw&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
