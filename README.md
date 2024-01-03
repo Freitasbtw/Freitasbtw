@@ -7,7 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=dark&layout=compact&count_private=true" />
  </div>
- 
+
+ <div align="center">
+ </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-freitas-07683a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-freitas-07683a225" height="30" width="40" /></a>
