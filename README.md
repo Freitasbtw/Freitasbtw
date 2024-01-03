@@ -4,8 +4,8 @@
 <h2 align="center">A passionate programmer from Brazil.</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=vue" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=vue&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=github_dark&layout=compact&count_private=true" />
  </div>
 
 <h2 align="center"></h2>
