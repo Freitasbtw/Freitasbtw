@@ -8,6 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=dark&layout=compact&count_private=true" />
  </div>
 
+<h2 align="center">A passionate programmer from Brazil.</h2>
  <div align="center">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
