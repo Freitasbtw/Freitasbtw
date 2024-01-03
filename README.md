@@ -4,8 +4,8 @@
 <h2 align="center">Breaking keyboards and fixing bugs: just another day in the life of a programmer.</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=radical&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=dark&layout=compact&count_private=true" />
  </div>
  
 <h3 align="left">Connect with me:</h3>
