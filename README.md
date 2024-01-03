@@ -1,9 +1,12 @@
-<h3 align="center">Breaking keyboards and fixing bugs: just another day in the life of a programmer.</h3>
-<p align="center"></p>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=rachzy&color=blueviolet" />
+ </div>
+<h2 align="center">Breaking keyboards and fixing bugs: just another day in the life of a programmer.</h2>
 
-<a href="https://github.com/Freitasbtw">
-<img height="180em" src="https://readmestats.999857.xyz/api?username=Freitasbtw&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://readmestats.999857.xyz/api/top-langs/?username=Freitasbtw&layout=compact&langs_count=6&theme=midnight-purple"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitasbtw&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitasbtw&hide=html,css&exclude_repo=learning-python,Fastalk&show_icons=true&theme=radical&layout=compact&count_private=true" />
+ </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freitasbtw&label=Profile%20views&color=0e75b6&style=flat" alt="freitasbtw" /> </p>
 
